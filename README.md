@@ -4,7 +4,21 @@ PBCWay sponsored Flower, a variant of Noraneko42W, willow layout with 36 keys &a
 
 # Detailed Summary
 
-Coming soon.
+Flower is a heavily modified version of Noraneko42W which has been blessed by Darakuneko himself for the mod.
+
+A List Of Mods Made To The Original DXF by Darakuneko:
+
+-Eliminate the extra 6th columns on each sides.
+
+-A square hole was created in the middle that can accomoadate either a 34mm or 25mm trackball powered by PMW3360 sensor.
+
+-Base of the trackball holder with lens cut out is integrated into the top case with integrated 5mm switch plate. Top case sits flush with pcb.
+
+-Created 2 versions of the PCB. Version 1 does not have hot swap and solder switches straight to the pcb which is currently been sponsored. Version 2 has hot swappable Kailh and will not be printed or tested in the future so print at your own risk.
+
+-Flower is powered by RP2040 Core - A which you can get from AE.
+
+-QMK code is borrowed from aki27 bally and modified the matrix to fit my Flower. No suppport will be given since I just copy and paste.
 
 # Rendering
 
