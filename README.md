@@ -4,9 +4,9 @@ PBCWay sponsored Flower, a variant of Noraneko42W, willow layout with 36 keys &a
 
 # Detailed Summary
 
-Flower is a heavily modified version of Noraneko42W which has been blessed by Darakuneko himself for the mod.
+Flower is a heavily modified version of Noraneko42W which has been blessed by darakuneko himself for the mod. Noraneko42 is originally designed by darakuneko.
 
-A List Of Mods Made To The Original DXF by Darakuneko:
+A List Of Mods Made To The Original DXF by darakuneko:
 
 -Eliminate the extra 6th columns on each sides.
 
