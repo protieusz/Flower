@@ -31,6 +31,8 @@ A List Of Mods Made To The Original DXF by darakuneko:
 
 -Or you can use my STL 34mm version that is include on the above.
 
+-Use M2 brass hot inserts 3.2mm diameter and 4mm length for the M2 screws to secure the case. I forgot how long is my M2 screws are but they should be greater than 10mm so estimated around 14.6mm. Play around with and buy multiple M2 lenght screws.
+
 # Full Production Pics
 
 ![IMG_2556](https://github.com/user-attachments/assets/72a82b22-8ab4-4e84-9e0e-56da59cb24c7)
