@@ -15,7 +15,7 @@ A List Of Mods Made To The Original DXF by darakuneko:
 
 -Eliminate the extra 6th columns on each sides.
 
--A square hole was created in the middle that can accomoadate either a 34mm or 25mm trackball powered by PMW3360 sensor.
+-A square hole was created in the middle that can accomodate either a 34mm or 25mm trackball powered by PMW3360 sensor.
 
 -Base of the trackball holder with lens cut out is integrated into the top case with integrated 5mm switch plate. Top case sits flush with pcb.
 
