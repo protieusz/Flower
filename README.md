@@ -9,7 +9,7 @@ Thank you ![PCBWay](https://github.com/user-attachments/assets/267c5e21-127c-4ff
 
 # Detailed Summary
 
-Flower is a heavily modified version of Noraneko42W which has been blessed by darakuneko himself for the mod. Noraneko42 is originally designed by [darakuneko](https://github.com/darakuneko/Noraneko/tree/main/noraneko42w).
+Flower is a heavily modified version of Noraneko42W which has been blessed by darakuneko himself for the mod. Noraneko42 was originally designed by [darakuneko](https://github.com/darakuneko/Noraneko/tree/main/noraneko42w).
 
 A List Of Mods Made To The Original DXF by darakuneko:
 
