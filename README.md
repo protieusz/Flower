@@ -27,6 +27,10 @@ A List Of Mods Made To The Original DXF by darakuneko:
 
 -QMK code is borrowed from aki27 bally and modified the matrix to fit my Flower. No suppport will be given since I just copy and paste.
 
+-3DP trackball holder is designed by @ma_po_daisuki and his designs are being sold at [his Booth store](https://ma-po.booth.pm/items/5258743) which cost around $10 cad. Go check it out and support him.
+
+-Or you can use my STL 34mm version that is include on the above.
+
 # Full Production Pics
 
 ![IMG_2556](https://github.com/user-attachments/assets/72a82b22-8ab4-4e84-9e0e-56da59cb24c7)
