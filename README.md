@@ -45,7 +45,6 @@ A List Of Mods Made To The Original DXF by darakuneko:
 ![IMG_2536](https://github.com/user-attachments/assets/960f62ca-4cf4-4f4f-a033-e45452fe2998)
 ![IMG_2535](https://github.com/user-attachments/assets/4fee50fc-3adc-4f94-ba79-0d5a8cd4bde8)
 ![IMG_2534](https://github.com/user-attachments/assets/f620c44e-13af-4d10-96d9-2693ad50ff75)
-![IMG_2533](https://github.com/user-attachments/assets/dbd69798-26cf-4f66-8a69-de41b8e82914)
 ![IMG_2529](https://github.com/user-attachments/assets/820c61b1-932e-4183-b36c-50f8ee240a42)
 ![IMG_2528](https://github.com/user-attachments/assets/f94270a9-5eee-476f-94b7-3796fc1ac53a)
 ![IMG_2540](https://github.com/user-attachments/assets/e4e7698f-55c5-4ef2-8229-1154efe36d45)
