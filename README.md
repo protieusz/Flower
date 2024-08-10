@@ -2,7 +2,7 @@
 
 PBCWay sponsored Flower, a variant of Noraneko42W, willow layout with 36 keys &amp; interchangeable trackball size.
 
-# Featured
+# Featured In
 
 https://kbd.news/Flower-2440.html
 
