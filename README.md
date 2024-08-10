@@ -2,6 +2,10 @@
 
 PBCWay sponsored Flower, a variant of Noraneko42W, willow layout with 36 keys &amp; interchangeable trackball size.
 
+# Featured
+
+https://kbd.news/Flower-2440.html
+
 # Sponsorship
 
 Thank you ![PCBWay](https://github.com/user-attachments/assets/267c5e21-127c-4ff5-8dc7-cb0b8150bc35) for sponsoring my Flower PCB.  For all you PCB needs, you can always rely on PCBWay for all your PCB prototypes. Superb PCBA quality PCBs. No issues or scratches. Customer service very helpful and friendly. I highly recommend PCBWay for all your PCB prototype needs.
