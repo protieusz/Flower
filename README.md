@@ -15,7 +15,7 @@ Thank you ![PCBWay](https://github.com/user-attachments/assets/267c5e21-127c-4ff
 
 Flower is a heavily modified version of Noraneko42W which has been blessed by darakuneko himself for the mod. Noraneko42 was originally designed by [darakuneko](https://github.com/darakuneko/Noraneko/tree/main/noraneko42w).
 
-A List Of Mods Made To The Original DXF by darakuneko:
+A List Of Mods Made To The Original SVG by darakuneko:
 
 -Eliminate the extra 6th columns on each sides.
 
